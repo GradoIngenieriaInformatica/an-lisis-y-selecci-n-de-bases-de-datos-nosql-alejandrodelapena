@@ -1,1 +1,3 @@
-TIPO | Justificación corta
+Base de datos de Grafos (NoSQL) | El análisis se centra en relaciones y recorridos
+entre nodos. Un modelo de grafos permite calcular rutas y conexiones
+complejas de forma eficiente.
