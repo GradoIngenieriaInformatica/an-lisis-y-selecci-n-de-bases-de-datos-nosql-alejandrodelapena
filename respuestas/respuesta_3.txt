@@ -1,1 +1,3 @@
-TIPO | Justificación corta
+COLUMNAR | Se gestionan grandes volúmenes de datos orientados
+a consultas por agregación temporal. El modelo columnar optimiza el
+análisis masivo y la escalabilidad.
